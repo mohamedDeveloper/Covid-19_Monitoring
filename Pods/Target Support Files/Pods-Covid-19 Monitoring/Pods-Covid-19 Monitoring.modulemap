@@ -1,0 +1,6 @@
+module Pods_Covid_19_Monitoring {
+  umbrella header "Pods-Covid-19 Monitoring-umbrella.h"
+
+  export *
+  module * { export * }
+}
